@@ -1,0 +1,2 @@
+# Llama from scratch
+This repository follows videos by [Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY) and [Umar Jamil](https://www.youtube.com/watch?v=oM4VmoabDAI) to code Llama from scratch. The code demonstrates the implementation of Rotary Position Embedding (RoPE), KV Cache, RMSNorm and Grouped Query Attention (GQA)
